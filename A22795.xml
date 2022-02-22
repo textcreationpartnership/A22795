@@ -1,0 +1,2851 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The glasse of vaine-glorie] [translated out of S. Augustine by W.P. ...]</title>
+            <title>Speculum peccatoris. English. 1593</title>
+            <author>Augustine, Saint, Bishop of Hippo.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1593</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22795</idno>
+            <idno type="STC">STC 930.7</idno>
+            <idno type="STC">ESTC S134</idno>
+            <idno type="EEBO-CITATION">21537488</idno>
+            <idno type="OCLC">ocm 21537488</idno>
+            <idno type="VID">24753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1739:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The glasse of vaine-glorie] [translated out of S. Augustine by W.P. ...]</title>
+                  <title>Speculum peccatoris. English. 1593</title>
+                  <author>Augustine, Saint, Bishop of Hippo.</author>
+                  <author>Prid, W.</author>
+               </titleStmt>
+               <extent>[12]+ p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Windet, dwelling by Pauls Wharfe at the signe of the Crosse Keyes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1593]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title and author suggested by STC (2nd. ed.) and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: lacks all except calendar.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="almanac">
+            <pb facs="tcp:24753:1"/>
+            <div n="January" type="month">
+               <head>IANVARY hath XXXI. dayes,</head>
+               <figure/>
+               <lg>
+                  <l>Downe with your Timberwood. &amp; let it not ſtand,</l>
+                  <l>Remembring for Barlie to fallowe your lands</l>
+                  <l>From hedges and trees bruſh all needles ſprigs,</l>
+                  <l>And now go a birding with nets and lime twigs.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>i</cell>
+                        <cell>A</cell>
+                        <cell>Kalend.</cell>
+                        <cell>Circumciſio<g ref="char:cmbAbbrStroke">̄</g>
+                        </cell>
+                        <cell rows="31">
+                           <p>Martine Luther. Firſte writte againſt the Pope, the yeare, 1517. and continu<g ref="char:EOLunhyphen"/>ed to the yeare 15<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>, in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>3. yeare of his age.</p>
+                           <p>The ſixt of this moneth Chriſte <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> worſhipped of the wiſe men, Math. 2.1. &amp;c. baptized, Math. 1 15. turned water in<g ref="char:EOLhyphen"/>to wine. Iohn. 2.1. &amp;c as teſtifieth Epipha<g ref="char:EOLhyphen"/>nius.</p>
+                           <p>The yeare hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> courſe of the Sunne, 12. Monthes by the courſe of the Moone 13. Monthes, of weekes 52. of daies, 365, and 6. houres, which maketh euerie fourth yeare one day more which is the leape yeare.</p>
+                           <p>Paul called, and conuerted the 25. of this moneth. Actes. 9.3.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>ii</cell>
+                        <cell>b</cell>
+                        <cell>iiii. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>iii</cell>
+                        <cell>c</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iiii</cell>
+                        <cell>d</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>v</cell>
+                        <cell>e</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vi</cell>
+                        <cell>f</cell>
+                        <cell>viii Id.</cell>
+                        <cell>Epiphanie.</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>vii</cell>
+                        <cell>g</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>viii</cell>
+                        <cell>A</cell>
+                        <cell>vi Id.</cell>
+                        <cell>Lucian.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>b</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>x</cell>
+                        <cell>c</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xi</cell>
+                        <cell>d</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xii</cell>
+                        <cell>e</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell>Sol in Aqua</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>xiii</cell>
+                        <cell>f</cell>
+                        <cell>Idus.</cell>
+                        <cell>Hillarie</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiiii</cell>
+                        <cell>g</cell>
+                        <cell>xix Kl.</cell>
+                        <cell>Februarii.</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>xv</cell>
+                        <cell>A</cell>
+                        <cell>xviii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvi</cell>
+                        <cell>b</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xvii</cell>
+                        <cell>c</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell>Priſca.</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xviii</cell>
+                        <cell>d</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xix</cell>
+                        <cell>e</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xx</cell>
+                        <cell>f</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell>Fabian.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxi</cell>
+                        <cell>g</cell>
+                        <cell>xii Kl.</cell>
+                        <cell>Agnes.</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xxii</cell>
+                        <cell>A</cell>
+                        <cell>xi Kl.</cell>
+                        <cell>Vincent.</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xxiii</cell>
+                        <cell>b</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiiii</cell>
+                        <cell>c</cell>
+                        <cell>ix Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xxv</cell>
+                        <cell>d</cell>
+                        <cell>viii Kl.</cell>
+                        <cell>Con. of Paul</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>xxvi</cell>
+                        <cell>e</cell>
+                        <cell>vii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvii</cell>
+                        <cell>f</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxviii</cell>
+                        <cell>g</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxix</cell>
+                        <cell>A</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxx</cell>
+                        <cell>b</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxxi</cell>
+                        <cell>c</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The day is viii houres</p>
+               <lg>
+                  <l>If ſore ſickneſſe grieue thee.</l>
+                  <l>Let Phyſicke relieue thee.</l>
+               </lg>
+               <p>The night <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> xvi houres.</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </div>
+            <div n="April" type="month">
+               <pb facs="tcp:24753:2"/>
+               <head>APRIL hath XXX. dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Sowe barlie this ſeaſon in land that is ſtrong,</l>
+                  <l>Your garden hearbes ſetting delaye not too longs</l>
+                  <l>To ſowe Hempe and Flaxe &amp; other good ſeede,</l>
+                  <l>As cucummers &amp; melons, this month you had neede.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>i</cell>
+                        <cell>g</cell>
+                        <cell>Kalend,</cell>
+                        <cell> </cell>
+                        <cell rows="30">
+                           <p>The firſt of this Month Noah vnco<g ref="char:EOLhyphen"/>uered the Arke, and ſaw earth, Gen. 8.13. Moſes reared the tabernacle, Ex. 40.2.17. the Temple be<g ref="char:EOLhyphen"/>ganne to bee ſanctifi<g ref="char:EOLunhyphen"/>ed, 2. Chr. 29.17.</p>
+                           <p>On the ſixt day of Aprill 1580. Was a great Earthquake, a little before 6. of the clocke in the after<g ref="char:EOLunhyphen"/>noone, wherein was much hurt done, in and about London, and other places.</p>
+                           <p>The 28. day of A<g ref="char:EOLunhyphen"/>prill, 1494. Was bur<g ref="char:EOLunhyphen"/>ned in Smithfield, a very old woman, of the age of 80. yeares named Ioan Brough<g ref="char:EOLunhyphen"/>ton widow, and mo<g ref="char:EOLhyphen"/>ther to the Lady Young, for holding Eight of Wicklifes opinions.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>ii</cell>
+                        <cell>A</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>iii</cell>
+                        <cell>b</cell>
+                        <cell>iii No.</cell>
+                        <cell>Richard.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iiii</cell>
+                        <cell>c</cell>
+                        <cell>Prid. No</cell>
+                        <cell>Ambroſe.</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>v</cell>
+                        <cell>d</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>vi</cell>
+                        <cell>e</cell>
+                        <cell>viii. Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vii</cell>
+                        <cell>f</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>viii</cell>
+                        <cell>g</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>A</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>x</cell>
+                        <cell>b</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>xi</cell>
+                        <cell>c</cell>
+                        <cell>iii Id.</cell>
+                        <cell>ſol in Tauro.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xii</cell>
+                        <cell>d</cell>
+                        <cell>Prid. Id</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>xiii</cell>
+                        <cell>e</cell>
+                        <cell>Idus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>xiiii</cell>
+                        <cell>f</cell>
+                        <cell>xviii Kl</cell>
+                        <cell>Maii.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xv</cell>
+                        <cell>g</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xvi</cell>
+                        <cell>A</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xvii</cell>
+                        <cell>b</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xviii</cell>
+                        <cell>c</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xix</cell>
+                        <cell>d</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell>Alphege.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xx</cell>
+                        <cell>e</cell>
+                        <cell>xii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xxi</cell>
+                        <cell>f</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xxii</cell>
+                        <cell>g</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiii</cell>
+                        <cell>A</cell>
+                        <cell>ix Kl.</cell>
+                        <cell>S. George.</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xxiiii</cell>
+                        <cell>b</cell>
+                        <cell>viii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxv</cell>
+                        <cell>c</cell>
+                        <cell>vii Kl.</cell>
+                        <cell>Mark. Eua.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvi</cell>
+                        <cell>d</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xxvii</cell>
+                        <cell>e</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxviii</cell>
+                        <cell>f</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxix</cell>
+                        <cell>g</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxx</cell>
+                        <cell>A</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e day is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <lg>
+                  <l>ſo hoalſome bathes vſe thee,</l>
+                  <l>Sweete hearbs there to chuſe thee.</l>
+               </lg>
+               <p>The night xi. houres</p>
+            </div>
+            <div n="May" type="month">
+               <pb facs="tcp:24753:2"/>
+               <head>MAY hath XXXI. dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Sow parſly and onions coriander and leekes.</l>
+                  <l>Smallage and baſill, theſe foure pleaſant weekes:</l>
+                  <l>Stirre vp your land for wheate and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orrie,</l>
+                  <l>And haue to your cattell a circumſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> eie<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>i</cell>
+                        <cell>b</cell>
+                        <cell>Kalend.</cell>
+                        <cell>phil &amp; Iacob</cell>
+                        <cell rows="31">
+                           <p>The firſt of this moneth Moſes was commanded to num<g ref="char:EOLhyphen"/>ber the children of Iſrael. Numb. 1. i. &amp;c</p>
+                           <p>The fift of this Moneth Chriſt is thought to haue aſ<g ref="char:EOLunhyphen"/>cended vp into hea<g ref="char:EOLhyphen"/>uen. Mar. 16.19. Luke. 24.51. Act. 1.9.</p>
+                           <p>They which coulde not keep the Paſſe<g ref="char:EOLunhyphen"/>ouer at the day ap<g ref="char:EOLhyphen"/>pointed by the Lorde were willed to cele<g ref="char:EOLhyphen"/>brate the ſame the 1. of this month Nomb 19. ver, 10, 11, ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> the Iſraelites at the commaundement of kinge Hezekiah, 2, Chron, 30, 15.</p>
+                           <p>The 30. of May Iohn Cardmaker, prebendarie of wells, and Iohn Warne of London vpholſter, went cheerefully to the ſtake, and were burned in ſmithfield</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>ii</cell>
+                        <cell>c</cell>
+                        <cell>vi No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iii</cell>
+                        <cell>d</cell>
+                        <cell>v No.</cell>
+                        <cell>Inuention of the Croſſe</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>iiii</cell>
+                        <cell>e</cell>
+                        <cell>iiii No.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>v</cell>
+                        <cell>f</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vi</cell>
+                        <cell>g</cell>
+                        <cell>Prid. No.</cell>
+                        <cell>Ioh. Euang</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>vii</cell>
+                        <cell>A</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>viii</cell>
+                        <cell>b</cell>
+                        <cell>viii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>ix</cell>
+                        <cell>c</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>x</cell>
+                        <cell>d</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xi</cell>
+                        <cell>e</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>xii</cell>
+                        <cell>f</cell>
+                        <cell>iiii Id.</cell>
+                        <cell>Sol in Gem</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>xiii</cell>
+                        <cell>g</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiiii</cell>
+                        <cell>A</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xv</cell>
+                        <cell>b</cell>
+                        <cell>Idus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xvi</cell>
+                        <cell>c</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>Iunii.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvii</cell>
+                        <cell>d</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xviii</cell>
+                        <cell>e</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xix</cell>
+                        <cell>f</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell>Dunſtane.</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xx</cell>
+                        <cell>g</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xxi</cell>
+                        <cell>A</cell>
+                        <cell>xii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxii</cell>
+                        <cell>b</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xxiii</cell>
+                        <cell>c</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xiiii</cell>
+                        <cell>d</cell>
+                        <cell>ix Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxv</cell>
+                        <cell>e</cell>
+                        <cell>viii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxvi</cell>
+                        <cell>f</cell>
+                        <cell>vii Kl.</cell>
+                        <cell>Auguſtine.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvii</cell>
+                        <cell>g</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxviii</cell>
+                        <cell>A</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>xxix</cell>
+                        <cell>b</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxx</cell>
+                        <cell>c</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxxi</cell>
+                        <cell>d</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The day is xv. houres</p>
+               <lg>
+                  <l>To th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne diet traine thee,</l>
+                  <l>And from ſloth refraine thee.</l>
+               </lg>
+               <p>The night is ix hour<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="June" type="month">
+               <pb facs="tcp:24753:3"/>
+               <head>IVNE hath XXX dayes,</head>
+               <figure/>
+               <lg>
+                  <l>Your doong carrie out to comfort your feelde</l>
+                  <l>And bring home ſuch fewel as your woods yeeld:</l>
+                  <l>Mow downe your medowes, which doe lie lowe,</l>
+                  <l>And tender herbe ſeeds, this moneth you muſt ſow</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>i</cell>
+                        <cell>c</cell>
+                        <cell>Kalend.</cell>
+                        <cell> </cell>
+                        <cell rows="30">
+                           <p>The firſt comming of the children of Iſ<g ref="char:EOLhyphen"/>raell vnto mount Si<g ref="char:EOLunhyphen"/>nai was the firſt of this moneth, where they abode 11. mo<g ref="char:EOLhyphen"/>nethes, and 20 dayes, in whiche time all thoſe thinges were done recorded in Ex<g ref="char:EOLhyphen"/>od. chap. 19.1. &amp;c,</p>
+                           <p>In Iune, 1439. was burned one Richard <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>iſh. prieſt at the Tower hill, this man prophecied before his death, that the Poſ<g ref="char:EOLhyphen"/>terne of the Tower: ſhould ſinke, which afterwards came to paſſe, whereupon the people brought ſtones to the place and ſet vp a Croſſe, and woulde haue made their Pilgrimage thi<g ref="char:EOLhyphen"/>ther, had not the King ſtaide them.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ii</cell>
+                        <cell>f</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>iii</cell>
+                        <cell>g</cell>
+                        <cell>iii No.</cell>
+                        <cell>Nichomede,</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>iiii</cell>
+                        <cell>A</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>v</cell>
+                        <cell>b</cell>
+                        <cell>Nonas.</cell>
+                        <cell>Boniface.</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>vi</cell>
+                        <cell>c</cell>
+                        <cell>viii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vii</cell>
+                        <cell>d</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>viii</cell>
+                        <cell>c</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>ix</cell>
+                        <cell>f</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>x</cell>
+                        <cell>g</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>xi</cell>
+                        <cell>A</cell>
+                        <cell>iii Id.</cell>
+                        <cell rows="4">Barnab. apo Sol in Can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſtitin<g ref="char:cmbAbbrStroke">̄</g>. eſti. Iulii.</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>xii</cell>
+                        <cell>b</cell>
+                        <cell>Prid, Id.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiii</cell>
+                        <cell>c</cell>
+                        <cell>Idus.</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xiiii</cell>
+                        <cell>d</cell>
+                        <cell>xviii Kl.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xv</cell>
+                        <cell>e</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvi</cell>
+                        <cell>f</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xvii</cell>
+                        <cell>g</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xviii</cell>
+                        <cell>A</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xix</cell>
+                        <cell>b</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xx</cell>
+                        <cell>c</cell>
+                        <cell>xii Kl.</cell>
+                        <cell>Edward.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxi</cell>
+                        <cell>d</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xxii</cell>
+                        <cell>e</cell>
+                        <cell>x Kli</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>xxiii</cell>
+                        <cell>f</cell>
+                        <cell>ix Kl</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiiii</cell>
+                        <cell>g</cell>
+                        <cell>viii Kl.</cell>
+                        <cell>Ioh. Baptiſt</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxv</cell>
+                        <cell>A</cell>
+                        <cell>vii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvi</cell>
+                        <cell>b</cell>
+                        <cell>vi Kl</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxvii</cell>
+                        <cell>c</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxviii</cell>
+                        <cell>d</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxix</cell>
+                        <cell>e</cell>
+                        <cell>iii Kl.</cell>
+                        <cell>S. Pe. Apoſt</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxx</cell>
+                        <cell>f</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The day is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hours</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to content thee,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thirſt doe torment thee.</l>
+               </lg>
+               <p>The night is viii. houre.</p>
+            </div>
+            <div n="July" type="month">
+               <pb facs="tcp:24753:4"/>
+               <head>IVLY hath XXXI dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Cut downe your hie medowes whiles wether is faire,</l>
+                  <l>The knots of your fruite trees late naked and bare</l>
+                  <l>Thruſt ſickle in ſome part of your hard corne,</l>
+                  <l>But firſt let the moneth be well nigh out worne.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>i</cell>
+                        <cell>g</cell>
+                        <cell>Kalend.</cell>
+                        <cell>Wiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of Ma.</cell>
+                        <cell rows="31">
+                           <p>The firſt of Iuly, 1555, was burned in Smithfield that holy Marter, Iohn Brad<g ref="char:EOLhyphen"/>ford, who ſaid at his death. O England, England repent thee of thy ſinnes, &amp;c. And with him was bur<g ref="char:EOLhyphen"/>ned an apprenthe na<g ref="char:EOLhyphen"/>med Iohn Leafe.</p>
+                           <p>The 4. of Iuly, 1533 Iohn Frith, was bur<g ref="char:EOLunhyphen"/>ned in Smithfielde, &amp; with him Andrew Hewet.</p>
+                           <p>The 12. of this Month Iulius Ce<g ref="char:EOLhyphen"/>ſar. the 1, Romaine Emperour was horn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> of him is this month called Iuly.</p>
+                           <p>The 30. of Iuly 1540, was burned in Smithfielde Robert Barnes D. of Diui<g ref="char:EOLhyphen"/>nitie, and with him Thomas Gerard, &amp; William Ierome.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>ii</cell>
+                        <cell>A</cell>
+                        <cell>vi No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>iii</cell>
+                        <cell>b</cell>
+                        <cell>v No.</cell>
+                        <cell>Martin.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iiii</cell>
+                        <cell>c</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>v</cell>
+                        <cell>d</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vi</cell>
+                        <cell>c</cell>
+                        <cell>Prid. No.</cell>
+                        <cell>Dog daye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>vii</cell>
+                        <cell>f</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>viii</cell>
+                        <cell>g</cell>
+                        <cell>viii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>A</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>x</cell>
+                        <cell>b</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>xi</cell>
+                        <cell>c</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xii</cell>
+                        <cell>d</cell>
+                        <cell>iiii Id.</cell>
+                        <cell>Sol in Leo.</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xlii</cell>
+                        <cell>e</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xiiii</cell>
+                        <cell>f</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xv</cell>
+                        <cell>g</cell>
+                        <cell>Idus. Kl.</cell>
+                        <cell>Swithune.</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xvi</cell>
+                        <cell>A</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>Auguſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvii</cell>
+                        <cell>b</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xviii</cell>
+                        <cell>c</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xix</cell>
+                        <cell>d</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xx</cell>
+                        <cell>e</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell>Margaret.</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xxi</cell>
+                        <cell>f</cell>
+                        <cell>xii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxii</cell>
+                        <cell>g</cell>
+                        <cell>xi Kl.</cell>
+                        <cell>Magdalen.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiii</cell>
+                        <cell>A</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxliii</cell>
+                        <cell>b</cell>
+                        <cell>ix Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxv</cell>
+                        <cell>c</cell>
+                        <cell>viii Kl.</cell>
+                        <cell>Iames. Apo</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxvi</cell>
+                        <cell>d</cell>
+                        <cell>vii Kl.</cell>
+                        <cell>Anne.</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>xxvii</cell>
+                        <cell>c</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxviii</cell>
+                        <cell>f</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxix</cell>
+                        <cell>g</cell>
+                        <cell>liii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxx</cell>
+                        <cell>A</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxxi</cell>
+                        <cell>b</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The day is xvi houres</p>
+               <lg>
+                  <l>Walke wately I will thee,</l>
+                  <l>for ill ſmelles may kill thee.</l>
+               </lg>
+               <p>The night is viii. hour<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="August" type="month">
+               <pb facs="tcp:24753:5"/>
+               <head>AVGVST hath XXXI dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Reape downe your tie, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ocke vp your wheate,</l>
+                  <l>Your ſummer fruites gather, the ſweeter to eate:</l>
+                  <l>And downe with ſuch otes as God ſhall you ſend,</l>
+                  <l>Provided this moneth drawe toward an end.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>i</cell>
+                        <cell>c</cell>
+                        <cell>Kalend.</cell>
+                        <cell>Lammas.</cell>
+                        <cell rows="31">
+                           <p>The firſt of this Moneth Aaron, 40. yeeres after the chil<g ref="char:EOLhyphen"/>dren of Iſraell were come out of Egypt, dyed on mount <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, Nomber. 33. 38. Alſo on this, daie Ezra with his companye came out of Babell vnto Ieruſalem Ez<g ref="char:EOLunhyphen"/>ra, 7.9.</p>
+                           <p>The 19. of Auguſt 1531. Thomas Bil<g ref="char:EOLunhyphen"/>ney, bacheler of the law was burned at Norwich, in a lowe vally called <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ollards pit, for the profeſſion of the Goſpell.</p>
+                           <p>The 7, of this Moneth Nebuchad<g ref="char:EOLunhyphen"/>nezar burnt the houſe of the Lorde, and all Ieruſalem. 2. Kings 25. verſe. 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ii</cell>
+                        <cell>d</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iii</cell>
+                        <cell>e</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>iiii</cell>
+                        <cell>f</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>v</cell>
+                        <cell>g</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>vi</cell>
+                        <cell>A</cell>
+                        <cell>viii Id.</cell>
+                        <cell>Tranſfigura.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vii</cell>
+                        <cell>b</cell>
+                        <cell>vii Id.</cell>
+                        <cell>Name of Ie.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>viii</cell>
+                        <cell>c</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>ix</cell>
+                        <cell>d</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>x</cell>
+                        <cell>e</cell>
+                        <cell>iiii Id.</cell>
+                        <cell>Laurence.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xi</cell>
+                        <cell>f</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xii</cell>
+                        <cell>g</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell>Sol in virgo</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xiii</cell>
+                        <cell>A</cell>
+                        <cell>Idus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiiii</cell>
+                        <cell>b</cell>
+                        <cell>xix Kl.</cell>
+                        <cell>Septembris.</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xv</cell>
+                        <cell>c</cell>
+                        <cell>xviii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvi</cell>
+                        <cell>d</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xvii</cell>
+                        <cell>e</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xviii</cell>
+                        <cell>f</cell>
+                        <cell>xv Il.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xix</cell>
+                        <cell>g</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xx</cell>
+                        <cell>A</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxi</cell>
+                        <cell>b</cell>
+                        <cell>xii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxii</cell>
+                        <cell>c</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxiii</cell>
+                        <cell>d</cell>
+                        <cell>x Kl.</cell>
+                        <cell>Fak.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiiii</cell>
+                        <cell>e</cell>
+                        <cell>ix Kl.</cell>
+                        <cell>Barthol. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxv</cell>
+                        <cell>f</cell>
+                        <cell>viii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxvi</cell>
+                        <cell>g</cell>
+                        <cell>vii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvii</cell>
+                        <cell>A</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxviii</cell>
+                        <cell>b</cell>
+                        <cell>v Kl.</cell>
+                        <cell>Auguſtine.</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxix</cell>
+                        <cell>c</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell rows="2">Behead. of Iohn.</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xxx</cell>
+                        <cell>d</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxxi</cell>
+                        <cell>e</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>The day is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hours</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Burning heate may annoy thee</hi>
+                  </l>
+                  <l>
+                     <hi>Quaking cold may deſtroy thee</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>The night is ten houres.</hi>
+               </p>
+            </div>
+            <div n="September" type="month">
+               <pb facs="tcp:24753:5"/>
+               <head>SEPTEMBER hath XXX dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Now reape vp your barlie, leaſt that it be loſt,</l>
+                  <l>Your beanes and your peaſon to quite care &amp; coſt<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Remembring alwaies the age of the moone,</l>
+                  <l>So ſhall you do nothing too late or too ſoone.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>i</cell>
+                        <cell>f</cell>
+                        <cell>Kalend.</cell>
+                        <cell>Giles.</cell>
+                        <cell rows="30">
+                           <p>The 7. of this Moneth our moſte noble Queene Eliza<g ref="char:EOLunhyphen"/>beth was borne at Greenwich, Anno. 1532.</p>
+                           <p>In the yeare 145<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> was the noble ſcience of Printing inuented by one Iohn Fauſtiſo a goldſmith dwelling firſt at Argentine, af<g ref="char:EOLunhyphen"/>terwards a Citizen of Mentz. Who per<g ref="char:EOLunhyphen"/>ceiuing the inuention to come wel to paſſe, made one Ioha<g ref="char:cmbAbbrStroke">̄</g> Gut<g ref="char:EOLunhyphen"/>temberge and Peter Scafford of his cou<g ref="char:cmbAbbrStroke">̄</g>ſel, binding them by oath to keepe ſilence for a while. After fiue yeares, Iohn Gut<g ref="char:EOLunhyphen"/>temberge firſt began to Print at Straſbo<g ref="char:EOLhyphen"/>rough. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lritus Han Firſt printed at Rom. and William Garton a mercer of London, did firſt Print in Eng<g ref="char:EOLunhyphen"/>land.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ii</cell>
+                        <cell>g</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>iii</cell>
+                        <cell>A</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iiii</cell>
+                        <cell>b</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>v</cell>
+                        <cell>c</cell>
+                        <cell>Nonas.</cell>
+                        <cell>Dog dayes</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>vi</cell>
+                        <cell>d</cell>
+                        <cell>viii Id.</cell>
+                        <cell>ende.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vii</cell>
+                        <cell>e</cell>
+                        <cell>vii Id.</cell>
+                        <cell>Nati. of Eli.</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>viii</cell>
+                        <cell>f</cell>
+                        <cell>vi Id.</cell>
+                        <cell>Nati. of Ma</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>g</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>x</cell>
+                        <cell>A</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>xi</cell>
+                        <cell>b</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xii</cell>
+                        <cell>c</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell>Sol in Libra</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiii</cell>
+                        <cell>d</cell>
+                        <cell>Idus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xiiii</cell>
+                        <cell>e</cell>
+                        <cell>xviii Kl.</cell>
+                        <cell>Holy croſſe.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xv</cell>
+                        <cell>f</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>
+                           <hi>Equinoc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xvi</cell>
+                        <cell>g</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell>
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xvii</cell>
+                        <cell>A</cell>
+                        <cell>xv Kl.</cell>
+                        <cell>Lambert.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xviii</cell>
+                        <cell>b</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xix</cell>
+                        <cell>c</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xx</cell>
+                        <cell>d</cell>
+                        <cell>xii Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxi</cell>
+                        <cell>e</cell>
+                        <cell>xi Kl.</cell>
+                        <cell>S. Matthe.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxii</cell>
+                        <cell>f</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiii</cell>
+                        <cell>g</cell>
+                        <cell>ix Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxiiii</cell>
+                        <cell>A</cell>
+                        <cell>viii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>xxv</cell>
+                        <cell>b</cell>
+                        <cell>vii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvi</cell>
+                        <cell>c</cell>
+                        <cell>vi. Kl.</cell>
+                        <cell>Ciprian.</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxvii</cell>
+                        <cell>d</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxviii</cell>
+                        <cell>e</cell>
+                        <cell>iiii. Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xxix</cell>
+                        <cell>f</cell>
+                        <cell>iii Kl.</cell>
+                        <cell>S. Michael.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>xxx</cell>
+                        <cell>g</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell>Hierome.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>The day is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> houres</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>With raw frute to glut thee.</hi>
+                  </l>
+                  <l>
+                     <hi>In <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e till may put thee.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>The night is xii. houres<g ref="char:punc">▪</g>
+                  </hi>
+               </p>
+            </div>
+            <div n="October" type="month">
+               <pb facs="tcp:24753:6"/>
+               <head>OCTOBER hath XXXI dayes.</head>
+               <figure/>
+               <lg>
+                  <l>To ſowe wheate and tie a while take the paine,</l>
+                  <l>In this mouthes beginning for feare of the raine.</l>
+                  <l>Scowre diches and pondes ſet apples &amp; plommes,</l>
+                  <l>Peares walnuts &amp; tilberds, for time goes &amp; commes.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>i</cell>
+                        <cell>A</cell>
+                        <cell>Kalend.</cell>
+                        <cell>Remige.</cell>
+                        <cell rows="31">
+                           <p>The 1. of this Moneth the Iewes celebrated the feaſt of trumpets, Leuit. 23.24. The latter Iews call this daye the be<g ref="char:EOLhyphen"/>ginning of the newe yeere.</p>
+                           <p>The 16. of October 1555. were burned at Oxford, two worthy Biſhops and Mar<g ref="char:EOLunhyphen"/>ters, maſter N. Rid<g ref="char:EOLhyphen"/>ley, and maſter Hue Latimer, who after wonderfull comforts one geuen to another, maſter Latimer ſaid, be good comforte maſter Ridley, and play the man, we ſhal this day light ſuch a Candle, by Gods grace, in England, as (I truſt) ſhall neuer be put out.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>ii</cell>
+                        <cell>b</cell>
+                        <cell>vi No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iii</cell>
+                        <cell>c</cell>
+                        <cell>v No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>iiii</cell>
+                        <cell>d</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>v</cell>
+                        <cell>e</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vi</cell>
+                        <cell>f</cell>
+                        <cell>Prid. No.</cell>
+                        <cell>Fayth.</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>vii</cell>
+                        <cell>g</cell>
+                        <cell>Nonas,</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>viii</cell>
+                        <cell>A</cell>
+                        <cell>viii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>b</cell>
+                        <cell>vii Id.</cell>
+                        <cell>Dennis.</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>x</cell>
+                        <cell>c</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xi</cell>
+                        <cell>d</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xii</cell>
+                        <cell>e</cell>
+                        <cell>iiii Id.</cell>
+                        <cell>Sol in S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xiii</cell>
+                        <cell>f</cell>
+                        <cell>iii Id.</cell>
+                        <cell>Edward.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiiii</cell>
+                        <cell>g</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>xv</cell>
+                        <cell>A</cell>
+                        <cell>Idus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xvi</cell>
+                        <cell>b</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>Nouemb.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvii</cell>
+                        <cell>c</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell>Etheldrede</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xviii</cell>
+                        <cell>d</cell>
+                        <cell>xv Kl.</cell>
+                        <cell>Luke Euan.</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>xix</cell>
+                        <cell>e</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xx</cell>
+                        <cell>f</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xxi</cell>
+                        <cell>g</cell>
+                        <cell>xii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxii</cell>
+                        <cell>A</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxiii</cell>
+                        <cell>b</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxiiii</cell>
+                        <cell>c</cell>
+                        <cell>ix Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxv</cell>
+                        <cell>d</cell>
+                        <cell>viii Kl.</cell>
+                        <cell>Criſpine.</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxvi</cell>
+                        <cell>e</cell>
+                        <cell>vii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxvii</cell>
+                        <cell>f</cell>
+                        <cell>vi Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxviii</cell>
+                        <cell>g</cell>
+                        <cell>v Kl.</cell>
+                        <cell>Sund &amp; Iud</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xxix</cell>
+                        <cell>A</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>xxx</cell>
+                        <cell>b</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxxi.</cell>
+                        <cell>c</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>night is</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Let warme meates ſuffiſe thee.</hi>
+                  </l>
+                  <l>
+                     <hi>And tread drie I aduiſe thee</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>The night is xiii. houres</hi>
+               </p>
+            </div>
+            <div n="November" type="month">
+               <pb facs="tcp:24753:6"/>
+               <head>NOVEMBER hath XXX dayes.</head>
+               <figure/>
+               <lg>
+                  <l>Now ſerueth the ſeaſon to ſowe wheate and rie.</l>
+                  <l>At this monthes beginning in ground hot and drie:</l>
+                  <l>Some labour beſtowe your hedges to pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</l>
+                  <l>Your wood to cut downe, and chiefly your Aſh.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>i</cell>
+                        <cell>d</cell>
+                        <cell>Kalend.</cell>
+                        <cell>All Sainte.</cell>
+                        <cell rows="30">
+                           <p>At a Parlament be<g ref="char:EOLunhyphen"/>gun the fourth of No<g ref="char:EOLunhyphen"/>uember in the firſte yeare of King Ed<g ref="char:EOLunhyphen"/>ward the ſixt, were al ſuperſtitious Ima<g ref="char:EOLhyphen"/>ges vtterly taken a<g ref="char:EOLhyphen"/>way out of Churches and other places.</p>
+                           <p>The third of this moneth Conſtantino the Emperour ſonne to Conſtantinus the great, departed out of this world, Anno. 364 Hiſt tripart, in the end of the fifth booke.</p>
+                           <p>The tenth of this moneth Anno. 1483. D. Martin Luther was borne in Iſle<g ref="char:EOLhyphen"/>bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</p>
+                           <p>Queene Elizabeth bega<g ref="char:cmbAbbrStroke">̄</g> luckily to raigne for the aduaunceme<g ref="char:cmbAbbrStroke">̄</g>t of the Goſpel of our Sauiour Chriſt the 17. of this moneth. 1558.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ii</cell>
+                        <cell>e</cell>
+                        <cell>iiii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>8</cell>
+                        <cell>iii</cell>
+                        <cell>f</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>iiii</cell>
+                        <cell>g</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>v</cell>
+                        <cell>A</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>vi</cell>
+                        <cell>b</cell>
+                        <cell>viii Id.</cell>
+                        <cell>Leonard.</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>vii</cell>
+                        <cell>c</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>viii</cell>
+                        <cell>d</cell>
+                        <cell>vi Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>ix</cell>
+                        <cell>e</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>x</cell>
+                        <cell>f</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xi</cell>
+                        <cell>g</cell>
+                        <cell>iii Id.</cell>
+                        <cell>S. Martin.</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xii</cell>
+                        <cell>A</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell>Sol in Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>it</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xiii</cell>
+                        <cell>b</cell>
+                        <cell>Idus.</cell>
+                        <cell>Brice.</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xiiii</cell>
+                        <cell>c</cell>
+                        <cell>xviii Kl.</cell>
+                        <cell>Decembris.</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xv</cell>
+                        <cell>d</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xvi</cell>
+                        <cell>e</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>xvii</cell>
+                        <cell>f</cell>
+                        <cell>xv Kl.</cell>
+                        <cell>
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>uit. Reg Eliz.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>xviii</cell>
+                        <cell>g</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xix</cell>
+                        <cell>A</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xx</cell>
+                        <cell>b</cell>
+                        <cell>xii Kl.</cell>
+                        <cell>Edmu<g ref="char:cmbAbbrStroke">̄</g>d king</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxi</cell>
+                        <cell>c</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxii</cell>
+                        <cell>d</cell>
+                        <cell>x Kl.</cell>
+                        <cell>Cicilie.</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>xxiii</cell>
+                        <cell>e</cell>
+                        <cell>ix Kl.</cell>
+                        <cell>Clement.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiiii</cell>
+                        <cell>f</cell>
+                        <cell>viii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxv</cell>
+                        <cell>g</cell>
+                        <cell>vii Kl.</cell>
+                        <cell>Katherine.</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxvi</cell>
+                        <cell>A</cell>
+                        <cell>vi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvii</cell>
+                        <cell>b</cell>
+                        <cell>v Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xxviii</cell>
+                        <cell>c</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>xxix</cell>
+                        <cell>d</cell>
+                        <cell>iii Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>xxx</cell>
+                        <cell>e</cell>
+                        <cell>Prid. Kl.</cell>
+                        <cell>Andrew Apo</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>The day is ten houres</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>If ſtomach forſake thee,</hi>
+                  </l>
+                  <l>
+                     <hi>Then tart receits make thee.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>The night is xiiii. houres</hi>
+               </p>
+            </div>
+            <div n="December" type="month">
+               <pb facs="tcp:24753:7"/>
+               <head>DECEMBER hath XXXI dayes.</head>
+               <figure/>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with your timber wood you that wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne,</l>
+                  <l>And truſt me by triall the ſame ſhall not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>:</l>
+                  <l>Good digging of gardens remoouing of bees,</l>
+                  <l>Vnwri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng the rootes of all your fruite trees.</l>
+               </lg>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Prime.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>i</cell>
+                        <cell>f</cell>
+                        <cell>Kalend.</cell>
+                        <cell> </cell>
+                        <cell rows="31">
+                           <p>The 18 of Decem<g ref="char:EOLhyphen"/>ber 1556. was bur<g ref="char:EOLunhyphen"/>ned in Smithfielde that valiant, and conſtant Marter, maiſter Iohn Phil<g ref="char:EOLunhyphen"/>pot, who ſo ſoone as hee came into Smithfield he kne<g ref="char:EOLhyphen"/>led downe and ſaid I will paye my vowes in thee O Smithfield.</p>
+                           <p>The 22, of De<g ref="char:EOLhyphen"/>cember, 1557, were burned in Smith<g ref="char:EOLhyphen"/>field Iohn Rough, miniſter a Scotiſh<g ref="char:EOLhyphen"/>man, and Marga<g ref="char:EOLunhyphen"/>ret Mearing.</p>
+                           <p>The 20. of this Month Eſdias ex<g ref="char:EOLhyphen"/>horted the Iſrae<g ref="char:EOLhyphen"/>lites to put awaye their ſtrange wiues 1. Eſd. 9. vers. 6. &amp;c.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>ii</cell>
+                        <cell>g</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>iii</cell>
+                        <cell>A</cell>
+                        <cell>iii No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>iiii</cell>
+                        <cell>b</cell>
+                        <cell>Prid. No.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>v</cell>
+                        <cell>c</cell>
+                        <cell>Nonas.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>vi</cell>
+                        <cell>d</cell>
+                        <cell>viii Id.</cell>
+                        <cell>Nicho. Bl.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>vii</cell>
+                        <cell>e</cell>
+                        <cell>vii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>viii</cell>
+                        <cell>f</cell>
+                        <cell>vi Id.</cell>
+                        <cell>Concep. Ma</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>ix</cell>
+                        <cell>g</cell>
+                        <cell>v Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>x</cell>
+                        <cell>A</cell>
+                        <cell>iiii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>xi</cell>
+                        <cell>b</cell>
+                        <cell>iii Id.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xii</cell>
+                        <cell>c</cell>
+                        <cell>Prid. Id.</cell>
+                        <cell>Sol in Capri</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>xiii</cell>
+                        <cell>d</cell>
+                        <cell>Idus.</cell>
+                        <cell>Lucie.</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>xiiii</cell>
+                        <cell>e</cell>
+                        <cell>xix Kl.</cell>
+                        <cell>Ianuarii.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xv</cell>
+                        <cell>f</cell>
+                        <cell>xviii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>xvi</cell>
+                        <cell>g</cell>
+                        <cell>xvii Kl.</cell>
+                        <cell>O ſapientia.</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>xvii</cell>
+                        <cell>A</cell>
+                        <cell>xvi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xviii</cell>
+                        <cell>b</cell>
+                        <cell>xv Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>xix</cell>
+                        <cell>c</cell>
+                        <cell>xiiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xx</cell>
+                        <cell>d</cell>
+                        <cell>xiii Kl.</cell>
+                        <cell>Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>xxi</cell>
+                        <cell>e</cell>
+                        <cell>xii K.</cell>
+                        <cell>Thomas Ap</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>xxii</cell>
+                        <cell>f</cell>
+                        <cell>xi Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxiii</cell>
+                        <cell>g</cell>
+                        <cell>x Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>xxiiii</cell>
+                        <cell>A</cell>
+                        <cell>ix Kl.</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>xxv</cell>
+                        <cell>b</cell>
+                        <cell>viii Kl.</cell>
+                        <cell>Chriſtmas.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxvi</cell>
+                        <cell>c</cell>
+                        <cell>vii Kl.</cell>
+                        <cell>S. Steuen.</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>xxvii</cell>
+                        <cell>d</cell>
+                        <cell>vi Kl.</cell>
+                        <cell>S. Iohn.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>xxviii</cell>
+                        <cell>e</cell>
+                        <cell>v Kl.</cell>
+                        <cell>Innocents.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxix</cell>
+                        <cell>f</cell>
+                        <cell>iiii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>xxx</cell>
+                        <cell>g</cell>
+                        <cell>iii Kl.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>xxxi</cell>
+                        <cell>A</cell>
+                        <cell>Prid. Kl</cell>
+                        <cell>Silueſt. Bl.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The day is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> houres.</p>
+               <lg>
+                  <l>With warme clothing it thee</l>
+                  <l>Leaſt nipping cold hit thee.</l>
+               </lg>
+               <p>The night is xvii houres.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
